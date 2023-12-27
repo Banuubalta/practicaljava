@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_001_Practical/Java_001_Practical.iml" filepath="$PROJECT_DIR$/Java_001_Practical/Java_001_Practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practical/Practical.iml" filepath="$PROJECT_DIR$/Practical/Practical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pratik/Pratik.iml" filepath="$PROJECT_DIR$/Pratik/Pratik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/practicaljava.iml" filepath="$PROJECT_DIR$/.idea/practicaljava.iml" />
+    </modules>
+  </component>
+</project>
